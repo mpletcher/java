@@ -2,9 +2,10 @@ package JavaRevision;
 
 // Using many Methods and Instances
 
-public class firstboyfriend { 
+public class Firstboyfriend { 
 	private String boyName;	// Just methods inside this class can use this variable
-	public void setName(String typedName){	// Methods set name typed
+	
+	public void setName(String typedName){	// Method sets name typed
 		boyName = typedName;	// Instruction for this method
 	}
 	
