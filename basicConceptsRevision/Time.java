@@ -11,7 +11,7 @@ public class Time {
 		second 	= ((s > 0 && s < 60) ? s : 0);
 	}
 
-	// Method to display time
+	// Method to display military time
 	public String toMilitary(){
 		return String.format("%02d:%02d:%02d", hour, minute, second);
 	}
