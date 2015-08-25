@@ -5,8 +5,12 @@ public enum Enumeration {
 	// Objects
 	Marcos ("Programmer", "29"),
 	Tim ("Audit Assistant", "29"),
+	Juliana ("Marketing Analyst", "28"),
+	Monique ("IT Assistant", "29"),
 	Thais ("Lawyer", "33"),
-	Patricia ("Accountant", "40");
+	Patricia ("Accountant", "40"),
+	Kathy ("Consultant", "60"),
+	Linda ("English Teacher", "60");
 	
 	private final String description;
 	private final String age;
