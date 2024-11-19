@@ -1,7 +1,6 @@
 /* *
 Program file: Shape.java
-Author: Marcos R. Pletcher
-Email: marcos_rochapletcher@student.uml.edu
+Author: M
 Date: March, 5 2015
 Assignment: Program 6
 Course #: 90.297.061
